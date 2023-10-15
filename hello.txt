@@ -1,2 +1,1 @@
-hello this is dev3 
-how are you?
+hello dev3
