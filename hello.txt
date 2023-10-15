@@ -1,6 +1,2 @@
+olla this is commit from dev2
 
-<<<<<<< HEAD
-this is from branch B ! 
-=======
-this is from branch B !
->>>>>>> dev
