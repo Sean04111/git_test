@@ -1,6 +1,1 @@
-hi this is hello!
-<<<<<<<<< Temporary merge branch 1
-this is from branch B !
-=========
-this is branch main!
->>>>>>>>> Temporary merge branch 2
+hello main
