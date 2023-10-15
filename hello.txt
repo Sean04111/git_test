@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello main
+=======
+hello this is dev3 
+how are you?
+>>>>>>> 945161e (fuck dev3 how)
