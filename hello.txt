@@ -1,2 +1,6 @@
-hi this is hello!
-this is branch main!
+
+<<<<<<< HEAD
+this is from branch B ! 
+=======
+this is from branch B !
+>>>>>>> dev
