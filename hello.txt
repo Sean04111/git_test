@@ -1,6 +1,1 @@
-
-<<<<<<< HEAD
-this is from branch B ! 
-=======
-this is from branch B !
->>>>>>> dev
+this is from main
